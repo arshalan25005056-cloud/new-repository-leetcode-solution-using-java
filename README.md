@@ -1,2 +1,10 @@
 # new-repository-leetcode-solution-using-java
 A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/arshalan25005056-cloud/new-repository-leetcode-solution-using-java/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+<!---LeetCode Topics End-->

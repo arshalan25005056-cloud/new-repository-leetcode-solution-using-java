@@ -7,4 +7,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/arshalan25005056-cloud/new-repository-leetcode-solution-using-java/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3870-count-commas-in-range](https://github.com/arshalan25005056-cloud/new-repository-leetcode-solution-using-java/tree/master/3870-count-commas-in-range) |
 <!---LeetCode Topics End-->

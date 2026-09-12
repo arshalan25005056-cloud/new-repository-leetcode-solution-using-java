@@ -14,8 +14,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/arshalan25005056-cloud/new-repository-leetcode-solution-using-java/tree/master/0013-roman-to-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/arshalan25005056-cloud/new-repository-leetcode-solution-using-java/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/arshalan25005056-cloud/new-repository-leetcode-solution-using-java/tree/master/0013-roman-to-integer) |
+## Array
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/arshalan25005056-cloud/new-repository-leetcode-solution-using-java/tree/master/3483-unique-3-digit-even-numbers) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/arshalan25005056-cloud/new-repository-leetcode-solution-using-java/tree/master/3483-unique-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/arshalan25005056-cloud/new-repository-leetcode-solution-using-java/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->

@@ -5,7 +5,7 @@ class Solution {
         int i=0;
         while(i<n)
         {
-            if(arr[i]==target)
+            if((arr[i]^target)==0)
             {
                 return i;
             }

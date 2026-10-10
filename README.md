@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/arshalan25005056-cloud/new-repository-leetcode-solution-using-java/tree/master/0013-roman-to-integer) |
+| [0189-rotate-array](https://github.com/arshalan25005056-cloud/new-repository-leetcode-solution-using-java/tree/master/0189-rotate-array) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/arshalan25005056-cloud/new-repository-leetcode-solution-using-java/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/arshalan25005056-cloud/new-repository-leetcode-solution-using-java/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/arshalan25005056-cloud/new-repository-leetcode-solution-using-java/tree/master/3871-count-commas-in-range-ii) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/arshalan25005056-cloud/new-repository-leetcode-solution-using-java/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/arshalan25005056-cloud/new-repository-leetcode-solution-using-java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/arshalan25005056-cloud/new-repository-leetcode-solution-using-java/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/arshalan25005056-cloud/new-repository-leetcode-solution-using-java/tree/master/0189-rotate-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/arshalan25005056-cloud/new-repository-leetcode-solution-using-java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2540-minimum-common-value](https://github.com/arshalan25005056-cloud/new-repository-leetcode-solution-using-java/tree/master/2540-minimum-common-value) |
 | [3483-unique-3-digit-even-numbers](https://github.com/arshalan25005056-cloud/new-repository-leetcode-solution-using-java/tree/master/3483-unique-3-digit-even-numbers) |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/arshalan25005056-cloud/new-repository-leetcode-solution-using-java/tree/master/0015-3sum) |
+| [0189-rotate-array](https://github.com/arshalan25005056-cloud/new-repository-leetcode-solution-using-java/tree/master/0189-rotate-array) |
 | [2540-minimum-common-value](https://github.com/arshalan25005056-cloud/new-repository-leetcode-solution-using-java/tree/master/2540-minimum-common-value) |
 ## Sorting
 |  |

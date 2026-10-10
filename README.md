@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/arshalan25005056-cloud/new-repository-leetcode-solution-using-java/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/arshalan25005056-cloud/new-repository-leetcode-solution-using-java/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/arshalan25005056-cloud/new-repository-leetcode-solution-using-java/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/arshalan25005056-cloud/new-repository-leetcode-solution-using-java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/arshalan25005056-cloud/new-repository-leetcode-solution-using-java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2540-minimum-common-value](https://github.com/arshalan25005056-cloud/new-repository-leetcode-solution-using-java/tree/master/2540-minimum-common-value) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/arshalan25005056-cloud/new-repository-leetcode-solution-using-java/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/arshalan25005056-cloud/new-repository-leetcode-solution-using-java/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/arshalan25005056-cloud/new-repository-leetcode-solution-using-java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [2540-minimum-common-value](https://github.com/arshalan25005056-cloud/new-repository-leetcode-solution-using-java/tree/master/2540-minimum-common-value) |
 ## Heap (Priority Queue)

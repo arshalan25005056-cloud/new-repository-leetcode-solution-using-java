@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/arshalan25005056-cloud/new-repository-leetcode-solution-using-java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/arshalan25005056-cloud/new-repository-leetcode-solution-using-java/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/arshalan25005056-cloud/new-repository-leetcode-solution-using-java/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/arshalan25005056-cloud/new-repository-leetcode-solution-using-java/tree/master/0200-number-of-islands) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/arshalan25005056-cloud/new-repository-leetcode-solution-using-java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2540-minimum-common-value](https://github.com/arshalan25005056-cloud/new-repository-leetcode-solution-using-java/tree/master/2540-minimum-common-value) |
 | [3483-unique-3-digit-even-numbers](https://github.com/arshalan25005056-cloud/new-repository-leetcode-solution-using-java/tree/master/3483-unique-3-digit-even-numbers) |
@@ -86,4 +87,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/arshalan25005056-cloud/new-repository-leetcode-solution-using-java/tree/master/0078-subsets) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/arshalan25005056-cloud/new-repository-leetcode-solution-using-java/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/arshalan25005056-cloud/new-repository-leetcode-solution-using-java/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/arshalan25005056-cloud/new-repository-leetcode-solution-using-java/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/arshalan25005056-cloud/new-repository-leetcode-solution-using-java/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
